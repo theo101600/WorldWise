@@ -1,66 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "df4a",
-      "cityName": "Huerta del Marquesado",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-21T08:53:18.565Z",
-      "notes": "",
-      "position": {
-        "lat": "40.12849105685408",
-        "lng": "-1.6918945312500002"
-      }
-    },
-    {
-      "id": "c093",
-      "cityName": "Carboneras de Guadazaon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-21T08:53:18.565Z",
-      "notes": "",
-      "position": {
-        "lat": "39.8928799002948",
-        "lng": "-1.8237304687500002"
-      }
-    },
-    {
       "id": "0263",
       "cityName": "Yavoriv",
       "country": "Ukraine",
@@ -97,27 +37,63 @@
       }
     },
     {
-      "id": "1e65",
-      "cityName": "Dobryanka",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2025-04-21T09:15:44.759Z",
+      "id": "63a0",
+      "cityName": "Seissan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-22T14:24:03.618Z",
       "notes": "",
       "position": {
-        "lat": "58.63121664342478",
-        "lng": "56.25000000000001"
+        "lat": "43.48481212891603",
+        "lng": "0.5712890625000001"
       }
     },
     {
-      "id": "0cd0",
-      "cityName": "Sotonera, La",
+      "id": "8794",
+      "cityName": "Guejar-Sierra",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-04-21T09:18:41.068Z",
+      "date": "2025-04-22T14:24:11.121Z",
       "notes": "",
       "position": {
-        "lat": "42.293564192170095",
-        "lng": "-0.5932617187500001"
+        "lat": "37.10776507118514",
+        "lng": "-3.3618164062500004"
+      }
+    },
+    {
+      "id": "2ddd",
+      "cityName": "Bayanaul",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2025-04-22T14:33:32.941Z",
+      "notes": "",
+      "position": {
+        "lat": "50.736455137010665",
+        "lng": "75.23437500000001"
+      }
+    },
+    {
+      "id": "b61d",
+      "cityName": "San Luis",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2025-04-22T14:33:52.597Z",
+      "notes": "",
+      "position": {
+        "lat": "15.538375926292062",
+        "lng": "121.37695312500001"
+      }
+    },
+    {
+      "id": "6d5b",
+      "cityName": "Zhangye",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-04-22T14:33:59.077Z",
+      "notes": "",
+      "position": {
+        "lat": "38.788345355085625",
+        "lng": "101.07421875"
       }
     }
   ]
